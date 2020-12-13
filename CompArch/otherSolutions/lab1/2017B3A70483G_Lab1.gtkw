@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Sep  1 10:55:21 2020
+[*]
+[dumpfile] "/home/vezcraz/Documents/acads/4-1/CompArch/2017B3A70483G_Lab1.vcd"
+[dumpfile_mtime] "Tue Sep  1 08:37:17 2020"
+[dumpfile_size] 13313
+[savefile] "/home/vezcraz/Documents/acads/4-1/CompArch/2017B3A70483G_Lab1.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 403 73
+*-5.542411 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbenchALU.
+[treeopen] testbenchALU.shifterAndALU_Test.
+[sst_width] 223
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@24
+testbenchALU.shifterAndALU_Test.inp1[7:0]
+testbenchALU.shifterAndALU_Test.inp2[7:0]
+testbenchALU.shifterAndALU_Test.oper[2:0]
+testbenchALU.shifterAndALU_Test.out[7:0]
+testbenchALU.shifterAndALU_Test.output_alu[7:0]
+testbenchALU.shifterAndALU_Test.selOut
+testbenchALU.shifterAndALU_Test.selShiftAmt
+testbenchALU.shifterAndALU_Test.shftOutp[7:0]
+testbenchALU.shifterAndALU_Test.shftamt[2:0]
+testbenchALU.shifterAndALU_Test.shiftlmm[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

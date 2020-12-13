@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Oct 27 11:30:47 2020
+[*]
+[dumpfile] "/home/vezcraz/Music/2017B3A70660G_Lab5/Lab5_Question/2017B3A70483_Lab5.vcd"
+[dumpfile_mtime] "Tue Oct 27 11:29:54 2020"
+[dumpfile_size] 66417
+[savefile] "/home/vezcraz/Music/2017B3A70660G_Lab5/Lab5_Question/2017B3A70483_Lab5.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-6.779739 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[treeopen] testbench.mc.
+[sst_width] 223
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@28
+testbench.clk
+testbench.reset
+@22
+testbench.result[31:0]
+testbench.mc.ConCirc.old_state[3:0]
+testbench.mc.ConCirc.new_state[3:0]
+testbench.mc.ouputPC[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

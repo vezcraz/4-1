@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Oct  6 10:35:01 2020
+[*]
+[dumpfile] "/home/vezcraz/Documents/acads/4-1/CompArch/lab4/2017B3A40483G.vcd"
+[dumpfile_mtime] "Tue Oct  6 10:30:48 2020"
+[dumpfile_size] 629897
+[savefile] "/home/vezcraz/Documents/acads/4-1/CompArch/lab4/2017B3A40483G.gtkw"
+[timestart] 0
+[size] 1920 1004
+[pos] -29 -29
+*-5.222869 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] singleCycleTestBench.
+[sst_width] 223
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 294
+@24
+singleCycleTestBench.uut.outputIM[31:0]
+singleCycleTestBench.uut.dataReader1[31:0]
+singleCycleTestBench.uut.mux4Out[31:0]
+singleCycleTestBench.uut.AluOut[31:0]
+singleCycleTestBench.uut.Jmp
+singleCycleTestBench.uut.Branch
+singleCycleTestBench.uut.zero
+singleCycleTestBench.uut.clk
+singleCycleTestBench.uut.reset
+[pattern_trace] 1
+[pattern_trace] 0

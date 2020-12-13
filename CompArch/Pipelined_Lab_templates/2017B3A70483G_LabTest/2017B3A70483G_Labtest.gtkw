@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Nov  3 10:11:08 2020
+[*]
+[dumpfile] "/home/vezcraz/Documents/acads/4-1/CompArch/Pipelined_Lab_templates/Pipelined_Lab_Question/2017B3A70483G_Labtest.vcd"
+[dumpfile_mtime] "Tue Nov  3 10:08:16 2020"
+[dumpfile_size] 277027
+[savefile] "/home/vezcraz/Documents/acads/4-1/CompArch/Pipelined_Lab_templates/Pipelined_Lab_Question/2017B3A70483G_Lab5.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+testbench.a_fault0
+testbench.a_fault1
+testbench.a_fault2
+testbench.clk
+@22
+testbench.dm_3[31:0]
+testbench.dm_4[31:0]
+testbench.dm_5[31:0]
+testbench.dm_6[31:0]
+testbench.dm_7[31:0]
+testbench.dm_8[31:0]
+testbench.dm_9[31:0]
+testbench.dm_10[31:0]
+testbench.dm_11[31:0]
+testbench.program_count[31:0]
+testbench.reg_1[31:0]
+testbench.reg_2[31:0]
+testbench.reg_3[31:0]
+testbench.reg_4[31:0]
+testbench.reg_5[31:0]
+testbench.reg_6[31:0]
+@28
+testbench.reset
+[pattern_trace] 1
+[pattern_trace] 0

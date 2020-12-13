@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Tue Sep 29 10:25:47 2020
+[*]
+[dumpfile] "/home/vezcraz/Documents/acads/4-1/CompArch/lab3/2017B3A70483G_Lab3.vcd"
+[dumpfile_mtime] "Tue Sep 29 10:24:32 2020"
+[dumpfile_size] 183642
+[savefile] "/home/vezcraz/Documents/acads/4-1/CompArch/lab3/2017B3A70483G_Lab3.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 298 151
+*-4.111361 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Reading_IMTestBench.
+[treeopen] Reading_IMTestBench.uut.
+[treeopen] Reading_IMTestBench.uut.i.
+[treeopen] Reading_IMTestBench.uut.r.
+[sst_width] 223
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@24
+Reading_IMTestBench.uut.clk
+Reading_IMTestBench.uut.funct[5:0]
+Reading_IMTestBench.uut.inpc[31:0]
+Reading_IMTestBench.uut.ir[31:0]
+Reading_IMTestBench.uut.opcode[5:0]
+Reading_IMTestBench.uut.outpc[31:0]
+Reading_IMTestBench.uut.reset
+[pattern_trace] 1
+[pattern_trace] 0
