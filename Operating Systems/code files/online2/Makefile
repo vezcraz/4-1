@@ -1,0 +1,1 @@
+obj-y:=fts_syscall.o

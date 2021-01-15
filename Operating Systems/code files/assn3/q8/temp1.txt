@@ -1,0 +1,10 @@
+total 32
+-rwxrwxr-x 1 vezcraz vezcraz 13184 Oct 28 14:24 a.out
+-rw-rw-r-- 1 vezcraz vezcraz  2144 Oct 28 01:03 b.c
+-rw-rw-r-- 1 vezcraz vezcraz  3877 Oct 28 14:24 c.c
+-rwxrwxrwx 1 vezcraz vezcraz   339 Oct 28 14:23 temp1.txt
+-rwxrwxrwx 1 vezcraz vezcraz   339 Oct 28 14:23 temp2.txt
+0 
+emp2.txt
+0: grepä 1: tempzcraz vezcraz 13184 Qü
+0 

@@ -1,0 +1,11 @@
+Last attempt was:1
+Current state is: 8 3 4 
+Last attempt was:4
+Current state is: 4 2 4 
+Last attempt number was:5 Error[queryHandler fails]:Unknown Query Type.
+Last attempt was:5
+Current state is: 6 4 2 
+Current Score: 3 and Attempts: 6
+Last attempt was:7
+Current state is: 2 6 6 
+Last attempt number was:7 Error[queryHandler fails]:Unknown Query Type.
